@@ -1,4 +1,1 @@
-Sudoku
-======
-
-game
+Study project Sudoku-game
